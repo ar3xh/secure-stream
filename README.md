@@ -29,17 +29,17 @@ You can still open issues for feature requests, bug reports or any other inquiri
 <summary><h1>Screenshots 🖼️: </h1></summary>
 
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/d4daee69-6292-46da-a045-c3388177cc24" height="300" />
-  <img src="https://github.com/user-attachments/assets/15d5b510-02d2-4734-8604-c21159ebf220" height="300" />
+  <img src="https://github.com/user-attachments/assets/d4daee69-6292-46da-a045-c3388177cc24" height="500" />
+  <img src="https://github.com/user-attachments/assets/15d5b510-02d2-4734-8604-c21159ebf220" height="500" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/def1edd2-13d2-4623-a81a-6da5c903e7b0" height="300" />
-  <img src="https://github.com/user-attachments/assets/3f190b5e-2fe9-4db9-a722-8b4d66b4757f" height="300" />
+  <img src="https://github.com/user-attachments/assets/def1edd2-13d2-4623-a81a-6da5c903e7b0" height="500" />
+  <img src="https://github.com/user-attachments/assets/3f190b5e-2fe9-4db9-a722-8b4d66b4757f" height="500" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d4c65ffd-e1c7-41ce-90d1-47aed353e212" height="300" />
+  <img src="https://github.com/user-attachments/assets/d4c65ffd-e1c7-41ce-90d1-47aed353e212" height="500" />
 </p>
 
 
