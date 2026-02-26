@@ -1,19 +1,41 @@
 # Secure Stream
 
-**Secure Stream** is a lightweight and secure streaming platform for movies, TV shows, and anime. Built with privacy in mind, it ensures smooth and safe playback of your favorite content.
+**Secure Stream** is a poorly written lightweight and secure streaming platform for movies, TV shows, and anime. It ensures smooth and safe playback of your favorite content.
 
 ## Features
 
-- 🔒 Secure, encrypted streaming
-- 🎬 Supports movies, TV shows, and anime
-- ⚡ Simple and fast interface
-- 📱 Works across devices
+- implements `FLAG_SECURE` to prevent screenshots and screenrecording.
+- simple and clean ui
+- huge anime and tv shows database
+- multiple scrapers
+- inbuilt media player (Exoplayer)
 
-## Installation
+---
+> [!NOTE]
+> Some services are not working as of now.
+---
 
-1. Clone the repository:
-   git clone https://github.com/ar3xh/secure_stream.git
+### Contributing :
+Forks are welcomed, but contributions directly to this project and branch are not encouraged as of now.
+You can still open issues for feature requests, bug reports or any other inquiries.
+
+## Download App
+<a href="https://github.com/ar3xh/secure-stream/releases/download/v1.0.0-pre/SecureStream.apk" download>
+  <img src="https://img.shields.io/badge/Download-Click%20Here-blue?style=for-the-badge">
+</a>
+
+<!-- <details> -->
+  
+<summary><h1>Screenshots 🖼️: </h1></summary>
+  
+![image](https://github.com/user-attachments/assets/d4c65ffd-e1c7-41ce-90d1-47aed353e212)
+![image](https://github.com/user-attachments/assets/15d5b510-02d2-4734-8604-c21159ebf220)
+![image](https://github.com/user-attachments/assets/def1edd2-13d2-4623-a81a-6da5c903e7b0)
+![image](https://github.com/user-attachments/assets/3f190b5e-2fe9-4db9-a722-8b4d66b4757f)
+![image](https://github.com/user-attachments/assets/d4daee69-6292-46da-a045-c3388177cc24)
+
+
+<!-- </details> -->
    
 ## License
-
 This project is licensed under the [Apache License 2.0](LICENSE).
